@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Vitor!</h1>
 
 <p align="center">
-  👨‍💻 Desenvolvedor em formação com foco em Back-end <br/>
-  📍 São Paulo | 🎓 ADS - Universidade Cruzeiro do Sul
+Desenvolvedor em formação com foco em Back-end <br/>
+São Paulo | 🎓 ADS - Universidade Cruzeiro do Sul
 </p>
 
 <p align="center">
@@ -21,14 +21,16 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas, com paixão por desenvolvimento back-end e computação em nuvem. Tenho experiência prática em projetos utilizando Java, Spring Boot, Node.js, React e serviços da AWS. Participei de bootcamps intensivos onde aprimorei meus conhecimentos no desenvolvimento de APIs REST e boas práticas de arquitetura. Além disso, desenvolvi projetos pessoais full stack, com integração entre front-end e back-end e deploy em ambientes de produção. Estou em constante evolução e em busca da minha primeira oportunidade para aplicar meus conhecimentos e crescer como desenvolvedor.
 
 
-### 🛠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
@@ -37,8 +39,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com paixão por desenvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
@@ -59,9 +59,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com paixão por desenvo
 - **[Spotify Clone](https://github.com/Vitu07/deploy-projeto-spotifyclone)**  
   Clone funcional do Spotify com React e Express, incluindo player de música e deploy no render.
 
-- **Projetos do Bootcamp Java Cloud Native (DIO)**  
-  APIs REST com Java, Spring Boot, autenticação, persistência documentação de API com swagger, além da introdução do ambiente de nuvem da Azure.
-
+- **[Projeto Airdata](https://github.com/Vitu07/projeto-airdata)**  
+  Desenvolvimento do AIRDATA, plataforma web com Java/Spring Boot, Angular e PostgreSQL para monitoramento da qualidade do ar em tempo real, exibindo IQA/AQI, níveis de risco e recomendações de saúde, com gráficos e consultas por cidade.
 ---
 
 ## 📊 Estatísticas no GitHub

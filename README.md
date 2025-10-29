@@ -2,13 +2,16 @@
 
 <p align="center">
 Desenvolvedor em formação com foco em Back-end <br/>
-São Paulo | 🎓 ADS - Universidade Cruzeiro do Sul
+São Paulo | ADS - Universidade Cruzeiro do Sul
 </p>
 
 <p align="center">
   <a href="mailto:vitormorais20092004@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://vitu07.github.io" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&labelColor=000000&color=gray" alt="Portfólio" />
+</a>
   <a href="https://www.linkedin.com/in/vitor-de-morais" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

@@ -65,12 +65,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com paixão por desenvo
 - **[Projeto Airdata](https://github.com/Vitu07/projeto-airdata)**  
   Desenvolvimento do AIRDATA, plataforma web com Java/Spring Boot, Angular e PostgreSQL para monitoramento da qualidade do ar em tempo real, exibindo IQA/AQI, níveis de risco e recomendações de saúde, com gráficos e consultas por cidade.
 ---
-
-## 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitu07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitu07&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages"/>
-</p>
-
----
